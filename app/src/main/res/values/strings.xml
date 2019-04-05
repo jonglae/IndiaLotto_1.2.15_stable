@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">India Lotto</string>
+    <string name="app_share">★Lucky India Lotto★\n</string>
+
+    <string name="Gen_btn3">[NUMBERS SHARE]</string>
+    <string name="Gen_btnf31">[SUPER LOTTO NUNMBERS GEN]</string>
+    <string name="Gen_btnf32">[Jaldi 5,DOUBLE NUNMBERS GEN]</string>
+    <string name="Gen_btnf33">[THUNDERBALL NUNMBERS GEN]</string>
+
+    <string name="tab_text1">Super Lotto\n(Saturday,Tursday)</string>
+    <string name="tab_text2">Jaldi 5,Double</string>
+    <string name="tab_text3">Thunderball</string>
+    <string name="tab_info1">First Presse GEN Button</string>
+
+    <string name="bottom_text1">Home</string>
+    <string name="bottom_text2">Result</string>
+    <string name="bottom_text3">NEWS</string>
+    <string name="bottom_text4">NEWS2</string>
+    <string name="bottom_text5">MDCT</string>
+
+    <string name="india_lot1">Thursday Super Lotto\n</string>
+    <string name="india_lot2">Saturday Super Lotto\n</string>
+    <string name="india_lot3">Jaldi 5\n</string>
+    <string name="india_lot4">Jaldi5 Double\n</string>
+    <string name="india_lot5">Thunderball\n</string>
+
+    <string name="FeedLink1">https://twitrss.me/twitter_user_to_rss/?user=IndiaToday/</string>
+    <string name="FeedLink3">http://feeds.bbci.co.uk/news/world/asia/india/rss.xml</string>
+    <string name="FeedLink2">Thunderball\n</string>
+
+    <string name="banner_ad_unit_id2">ca-app-pub-5187489598351901/7143227153</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-5187489598351901/2746146442</string>
+
+
+    <string name="google_app_id">1:1079095644883:android:96c8ad2b6e3b0b08</string>
+    <string name="google_banner_id">ca-app-pub-5187489598351901~2507281480</string>
+
+
+    <string name="lotto_results">https://www.lotto.in/results</string>
+
+
+
+<!--예전 링크 -->
+    <!--<string name="FeedLink1">http://indianexpress.com/section/india/feed/</string>-->
+    <!--<string name="FeedLink3">http://feeds.bbci.co.uk/news/world/asia/india/rss.xml</string>-->
+</resources>

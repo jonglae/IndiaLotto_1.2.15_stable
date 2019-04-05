@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#789bd9e6</color>
+    <color name="colorGrey">#83827e</color>
+
+    <color name="frag1">#c19a6d</color>
+    <color name="frag2">#bf7839</color>
+    <color name="frag3">#86a783</color>
+    <color name="text_black">#000000</color>
+    <color name="mdct_bgc">#00A76A</color>
+</resources>

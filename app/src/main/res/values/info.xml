@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="PB_info1">hello</string>
+    <string name="app_info1">Published By MDCT\n</string>
+    <string name="app_info2">MDCT is My(Your) Dream Come True\nOne of my dreams is to travel to world</string>
+    <string name="app_info3">https://play.google.com/store/apps/details?id=gotopark.com.IndiaLotto</string>
+    <!--<string name="app_info3">Contact to Twitter : @data114</string>-->
+    <string name="app_info4">Thnak you for Download\nAnd be Happy Rich  ^.^! </string>
+    <string name="app_links">https://goo.gl/jXBvBh</string>
+</resources>
